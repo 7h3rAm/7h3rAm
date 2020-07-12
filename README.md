@@ -1,4 +1,8 @@
-### Hi there 👋
+# Ankur Tyagi
+
+|| नमस्ते 🙏 ||
+
+🏡 [Blog](https://7h3rAm.github.io) | 🤖 [GitHub](https://github.com/7h3rAm) | 🔗 [LinkedIn](https://in.linkedin.com/in/ankurstyagi) | 🐤 [Twitter](https://twitter.com/7h3rAm)
 
 <!--
 **7h3rAm/7h3rAm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
