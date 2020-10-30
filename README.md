@@ -1,4 +1,4 @@
-|| नमस्ते 🙏 ||
+🙏 || नमस्ते ||
 
 I'm Ankur Tyagi, an engineer by profession and infosec enthusiast by passion. Check out my work:
 
